@@ -81,7 +81,7 @@ npm install
 npm start
 ```
 
-The frontend development server should now be running locally at http://localhost:3000.
+The frontend development server should now be running locally at http://localhost:3001
 
 
 ## Support
